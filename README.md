@@ -1,2 +1,1 @@
-# educacionit.foreign.exchange.rest
-Java Web Service (Restful) Using Spring Boot 2.0
+GET to http://localhost:8000/currency-exchange/from/EUR/to/INR
